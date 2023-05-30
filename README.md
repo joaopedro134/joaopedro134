@@ -8,8 +8,7 @@
 - 📫 How to reach me: Let's connect and build something amazing together!
 - ⚡ Fun fact: Did you know that programmers' favorite dance move is the "Ctrl+C" and "Ctrl+V" shuffle?
 
-
-<picture>
+<!--<picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=joaopedro134&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -19,4 +18,4 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=joaopedro134&show_icons=true" />
-</picture>
+</picture> -->
